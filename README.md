@@ -1,15 +1,6 @@
 <h1 align = "center"> Mappings-Project </h1>
 
-<p align="center">
-<a href="Java url">
-    <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
-</a>
-<a href="Maven url" >
-    <img alt="Maven" src="https://img.shields.io/badge/maven-3.0.5-brightgreen.svg" />
-</a>
-<a href="Spring Boot url" >
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.0.6-brightgreen.svg" />
-</a>
+
 </p>
 The project is a portal designed to handle different types of relationships, including one-to-one, one-to-many, many-to-one, and many-to-many relationships. It provides CRUD operations for four models: Student, Laptop, Course, and Book. These models represent entities such as students, laptops, courses, and books, and each model has its own set of attributes and relationships.
 
